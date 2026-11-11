@@ -212,3 +212,4 @@ The application automatically discovers all languages defined in `locales.json` 
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+# loveformat
