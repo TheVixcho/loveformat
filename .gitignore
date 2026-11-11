@@ -1,0 +1,13 @@
+/target
+**/*.rs.bk
+*.pdb
+.DS_Store
+Thumbs.db
+.env
+/*.mp4
+/*.mov
+/*.mkv
+/*.webm
+/*.gif
+/*.wav
+/*.mp3
