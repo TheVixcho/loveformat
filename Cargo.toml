@@ -6,6 +6,8 @@ authors = ["LoveFormat Contributors"]
 description = "Conversor de formatos y transcodificador de video interactivo, visual y ultrarrápido para la terminal."
 readme = "README.md"
 license = "MIT"
+repository = "https://github.com/TheVixcho/loveformat"
+homepage = "https://github.com/TheVixcho/loveformat"
 keywords = ["video", "transcoder", "ffmpeg", "cli", "tui"]
 categories = ["command-line-utilities", "multimedia", "multimedia::video"]
 

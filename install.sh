@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-REPO="vixcho/LoveFormat"
+REPO="TheVixcho/loveformat"
 BIN_NAME="loveformat"
 
 OS="$(uname -s)"

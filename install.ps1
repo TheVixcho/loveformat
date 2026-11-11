@@ -1,6 +1,6 @@
 $ErrorActionPreference = "Stop"
 
-$Repo = "vixcho/LoveFormat"
+$Repo = "TheVixcho/loveformat"
 $BinName = "loveformat.exe"
 
 if ((Test-Path "Cargo.toml") -and (Get-Command cargo -ErrorAction SilentlyContinue)) {

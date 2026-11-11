@@ -85,13 +85,13 @@ After installation, the binary is placed in your system PATH so you can run `lov
 Quick one-line install:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/vixcho/LoveFormat/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/TheVixcho/loveformat/main/install.sh | bash
 ```
 
 Or via Cargo:
 
 ```bash
-cargo install --git https://github.com/vixcho/LoveFormat.git
+cargo install --git https://github.com/TheVixcho/loveformat.git
 ```
 
 ### Windows
@@ -99,18 +99,18 @@ cargo install --git https://github.com/vixcho/LoveFormat.git
 Open PowerShell and run:
 
 ```powershell
-irm https://raw.githubusercontent.com/vixcho/LoveFormat/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/TheVixcho/loveformat/main/install.ps1 | iex
 ```
 
 Or via Cargo:
 
 ```powershell
-cargo install --git https://github.com/vixcho/LoveFormat.git
+cargo install --git https://github.com/TheVixcho/loveformat.git
 ```
 
 ### Precompiled Binaries / Binarios Precompilados
 
-Download ready-to-run binaries from the [Releases](https://github.com/vixcho/LoveFormat/releases/latest) section:
+Download ready-to-run binaries from the [Releases](https://github.com/TheVixcho/loveformat/releases/latest) section:
 
 - Windows (x86_64): `loveformat-windows-x86_64.zip`
 - Linux (x86_64): `loveformat-linux-x86_64.tar.gz`
@@ -212,4 +212,3 @@ The application automatically discovers all languages defined in `locales.json` 
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-# loveformat
